@@ -2,6 +2,8 @@
 
 Created a Password Generator using JavaScript, HTML and CSS 
 
+URL: https://midzzcoder.github.io/PasswordGenerator/
+
 ! [passwordgenerator](passwordgenerator.PNG)
 Psuedo Code 
 
